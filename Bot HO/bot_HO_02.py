@@ -5,11 +5,11 @@ import discord
 import csv
 import json
 import pandas as pd
+from dotenv import load_dotenv
 
-
-
-TOKEN = 'NzI0MzU1NTk2MTc4MDMwNTkz.Xu--uA.pFanicbeo2KMFK46DLA_4hrzqYw'
-GUILD = 'Hands-On RD'
+load_dotenv("TOKEN.env")
+TOKEN = os.getenv('DISCORD_TOKEN')
+GUILD = os.getenv('DISCORD_GUILD')
 
 client = discord.Client()
 
