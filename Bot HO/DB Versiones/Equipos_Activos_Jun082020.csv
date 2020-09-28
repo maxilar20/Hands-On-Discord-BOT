@@ -1,0 +1,100 @@
+﻿Matricula,Nombre,Equipo,Equipo_ID,Categoría,Carrera,Ciclo
+1094935,Pablo Manuel Montilla Mendez,Mark-007,150,Monster,IMC,A  
+1094253,Jesus Francisco Diaz Adames,Mark-007,150,Monster,IMC,A  
+1093003,Armando Rafael Basilis Damiron,Mark-007,150,Monster,IMC,A  
+1092228,Ian Gabriel Cañas Fernández,Atom,151,Monster,IMC,A  
+1093669,Axel Elías De Jesús Del Jesús,Atom,151,Monster,IMC,A  
+1090359,Wisleiny Lara Soto,Atom,151,Monster,IMC,A  
+1093817,Francisco Ignacio Joga Casado,T.R.U.C.H.O.,152,Monster,IMC,A  
+1090419,Diego Alexandro Garcia Perez,T.R.U.C.H.O.,152,Monster,IMC,A  
+1095032,Estarlyn Joel Marrero Almonte,T.R.U.C.H.O.,152,Monster,IMC,A  
+1095192,Luis Antonio Heredia Valerio,KNGR2R,153,Monster,IMC,A  
+1093404,Allam Rodriguez Jimenez,KNGR2R,153,Monster,IMC,A  
+1095424,Jorge Josias Romero Soto,KNGR2R,153,Monster,IMC,A  
+1088617,Claudia Ortiz,cerberus,154,Monster,IMC,A  
+1094106,Sebastian Del Rosario,cerberus,154,Monster,IMC,A  
+1092525,Xavier Emilio Moya Domínguez,MIB,155,Monster,IMC,A  
+1094491,José René Llodrá Guzmán,MIB,155,Monster,IMC,A  
+1094384,Nicolas Lopez,MIB,155,Monster,IMC,A  
+1092944,Aimée Rachelle Duran Lapaix,RUCS,156,Monster,IMC,A  
+1094120,Diego Enrique Matías Cabrera,RUCS,156,Monster,IMC,A  
+1092762,Santiago Ramírez Echavarria,RUCS,156,Monster,IMC,A  
+1092917,Robert Rodríguez De La Cruz,Jortrol,157,Monster,IMC,A  
+1095214,Joel Lugo Peña,Jortrol,157,Monster,IMC,A  
+1094127,Leandro Miguel Martínez Méndez,Jortrol,157,Monster,IMC,A  
+1092987,Sebastián Enrique Senior Subero,Skrapjunk,158,Monster,IMC,A  
+1005,Ricardo Mota Sohm,Skrapjunk,158,Monster,INQ,A  
+1006,Esteban Oscar Peña Martínez,Skrapjunk,158,Monster,MC,A  
+1085857,John David Ureña Meléndez,Kratos,159,Sumo,IMC,A  
+1085856,Nestor Sosa Saviñón,Kratos,159,Sumo,IMC,A  
+1086695,Diego Enrique Morales Polanco,Kratos,159,Sumo,IMC,A  
+1085044,Lewis Mojica Rosario,Madness,160,Sumo,IMC,A  
+1077735,Francisco Alberto Marte Hierro,Madness,160,Sumo,IMC,A  
+1074213,Hector Miguel Senior Subero,Ajax,161,Rover,IMC,A  
+1075268,Aeolus Mena Capriles,Ajax,161,Rover,IMC,A  
+1076404,Juan Carlos Mármol Piantini,Ajax,161,Rover,IMC,A  
+1086010,Manuel María,La Pampara,163,Sumo,IMC,A  
+1088691,Donaldo De La Cruz,La Pampara,163,Sumo,IMC,A  
+1088101,Dante Cucurrullo,La Pampara,163,Sumo,IMC,A  
+1088299,Maritza Cuas Gonzalez,Pandora,164,Sumo,IMC,A  
+1087689,Génesis Sanchez,Pandora,164,Sumo,IMC,A  
+1088027,Jahaziel Soto,Pandora,164,Sumo,IMC,A  
+1088298,Matthews Rosario Espinal,Undefined,165,Sumo,IMC,A  
+1086371,Katherine Nicole Amarante De La Cruz,Undefined,165,Sumo,IMC,A  
+1086699,Rachell Alexandra Beltré Caraballo,Undefined,165,Sumo,IMC,A  
+1075273,Francisco Xavier Peña Pérez,Saktivantamaina,166,Rover,IMC,A  
+1074175,Hendell Alberto Ramos De La Cruz,Saktivantamaina,166,Rover,IMC,A  
+1076972,Carlos Alfonso Sulbaran Molero,Saktivantamaina,166,Rover,IMC,A  
+1072566,Dayson Emill Lagrange Suero,Curiolasux,167,Rover,MECATRONICA,A  
+1072121,Alexis Manuel Cabral Corporan,Curiolasux,167,Rover,IMC,A  
+1070134,Emilio Alejandro Matos Mieses,Curiolasux,167,Rover,IMC,A  
+1074439,Jorge Natanael Pinales Lluberes,T-Seven,168,Rover,IMC,A  
+1077352,Abimael Moreta Castillo,T-Seven,168,Rover,IMC,A  
+1075327,Manuel De Jesús Montás Ysabel,T-Seven,168,Rover,IMC,A  
+1085890,David Esteban Zabala Pedraza,Kakarot,169,Sumo,IMC,A  
+1086322,Francisco Vásquez Cuevas,Echo-Rogue,170,Sumo,IMC,A  
+1085104,Emil Enrique Sánchez Santos,Echo-Rogue,170,Sumo,IMC,A  
+1085392,Ricardo Alexis Peña Guzmán,Echo-Rogue,170,Sumo,IMC,A  
+1087926,Pablo Sebastián González Artiles,Wilson,171,Sumo,IMC,A  
+1087764,Nelson Manuel Martínez Navarro,Wilson,171,Sumo,IMC,A  
+1088066,Daniel Terrero Rodríguez,Wilson,171,Sumo,IMC,A  
+1073422,Anghelo Junior Montes De Oca Pimentel,Harver 2.0,172,Rover,IMC,A  
+1064545,Elias Polanco,Harver 2.0,172,Rover,IMC,A  
+1093481,Marianny Hierro Ramirez,JESKAI,174,Monster,IMC,B  
+1096600,Gian Lucas Ramirez Ureña,JESKAI,174,Monster,IMC,B  
+1093026,Leonardo Jose Polanco  Mendez,JESKAI,174,Monster,IMC,B  
+1075105,Marielis Guzman,Tamioka San,175,Sumo,IMC,B  
+1085213,Sheryl Herrera,Tamioka San,175,Sumo,IMC,B  
+1087396,Enmanuel Taveras,Tamioka San,175,Sumo,IMC,B  
+1093109,Leanny Josefina Del Villar Marte,Ikon ALLY,176,Monster,IMC,B  
+1096017,Yerson Alberto Dominguez Rodriguez,Ikon ALLY,176,Monster,IMC,B  
+1093629,Angelica Herrera Sanchez,Ikon ALLY,176,Monster,IMC,B  
+1089943,Manuel Bastardo,JMJ,177,Sumo,IMC,B  
+1088536,Juan Castillo,JMJ,177,Sumo,IMC,B  
+1087529,Jose Montero,JMJ,177,Sumo,IMC,B  
+1096172,Luis Gabriel Espaillat Cabrera,Don Quijote,178,Monster,IMC,B  
+1094890,Camila Michelle Encarnación Nova,Don Quijote,178,Monster,IMC,B  
+1094112,Hilary Daniela Mena Rodríguez,Don Quijote,178,Monster,IMC,B  
+1096372,Edward Moises Muñoz Sanchez,GodKiller,179,Monster,ING MECATRONICA,B  
+1096742,Roberto Alexander Baez Tatis,GodKiller,179,Monster,MECATRONIC,B  
+1097269,Hamlet Joseph Fernández Araujo,Artorias,180,Monster,IMC,B  
+1090903,Sebastián Manuel Cote Santos,Artorias,180,Monster,IMC,B  
+1087552,Enmanuel Osmaidel Germán Paz,Syfurios X,181,Sumo,IMC,B  
+1089464,Joan Daniel Méndez Reyes,Syfurios X,181,Sumo,IMC,B  
+1089311,Damphis Bello Rodríguez,Syfurios X,181,Sumo,IMC,B  
+1086395,Ayeska Nicole Batista Moquete,Mojojojo,182,Sumo,IMC,B  
+1086631,Johanna Lizbeth León Santana,Mojojojo,182,Sumo,IMC,B  
+1089480,Mirelys Maldonado Familia,Mojojojo,182,Sumo,IMC,B  
+1074974,Lisanna María Santiago Batista,Quimera,183,Rover,IMC,B  
+1073792,Estefany Concepción Almánzar,Quimera,183,Rover,IMC,B  
+1077018,Carlos Alejandro Cornielle,Quimera,183,Rover,IMC,B  
+1085868,Luis Emilio Félix Reyes,Kakuryu,184,Sumo,IMC,B  
+1089740,Edgar Keiji Cespedes Tamate,Kakuryu,184,Sumo,IMC,B  
+1090106,Geraldo Isaac Sanchez,Kakuryu,184,Sumo,IMC,B  
+1089629,Luis Alberto Gil Almanzar,Dark-Star,185,Sumo,IMC,B  
+1089053,Mario Agustin Silverio Cano,Dark-Star,185,Sumo,IMC,B  
+1074570,Milton Armenio De Los Santos Mañe,Tony,186,Rover,IMC,B  
+1076686,Emil Gil Hernandez,Tony,186,Rover,IMC,B  
+1095329,Tomas Castro,Cima 100,187,Monster,IMC,B  
+1095314,Paul Marmol,Cima 100,187,Monster,IMC,B  
+1096641,Eduardo Reyes,Cima 100,187,Monster,IMC,B
